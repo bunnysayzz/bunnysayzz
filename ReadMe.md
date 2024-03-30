@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I am currently pursuing Bachelor degree from Lovely Professional University.<br>i am good in HTML, CSS, JAVASCRIPT & JAVA and also good in React Library and nextJs framework 
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azharuddin-85742b221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/apt_get_azhar) 
 
 # 💻 Tech Stack:
@@ -18,7 +18,7 @@ I am currently pursuing Bachelor degree from Lovely Professional University.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bunnysayzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
