@@ -1,5 +1,5 @@
 #  About Me:
-I am currently pursuing Bachelor degree from Lovely Professional University.<br>i am good in HTML, CSS, JAVASCRIPT & JAVA and also good in React Library and nextJs framework 
+I am currently pursuing Bachelor degree from Lovely Professional University.<br>i am good in HTML, CSS, JAVASCRIPT & JAVA and also good in Frontend Library like ReactJs and backend framework Express Js 
 
 
 ##  Socials:
