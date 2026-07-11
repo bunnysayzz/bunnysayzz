@@ -12,17 +12,14 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https
 
 ## Now building
 
-**[SideTerminal](https://github.com/bunnysayzz/sideterminal)** — a native macOS terminal
-that slides in from your screen edge and keeps every session alive while hidden.
+**[SideTerminal](https://github.com/bunnysayzz/sideterminal)** — a native macOS terminal that slides in from your screen edge and keeps every session alive while hidden.
+<a href="https://github.com/bunnysayzz/sideterminal"><img src="https://img.shields.io/github/stars/bunnysayzz/sideterminal?style=flat&logo=github&label=stars&color=444" alt="stars"></a>
+<img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/macOS-000?logo=apple&logoColor=white" alt="macOS">
 
-<p>
-  <a href="https://github.com/bunnysayzz/sideterminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunnysayzz&repo=sideterminal&theme=github_dark_dimmed&hide_border=true" alt="SideTerminal">
-  </a>
-  <a href="https://github.com/bunnysayzz/AppleAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunnysayzz&repo=AppleAI&theme=github_dark_dimmed&hide_border=true" alt="AppleAI">
-  </a>
-</p>
+**[AppleAI](https://github.com/bunnysayzz/AppleAI)** — a macOS menu-bar app that puts ChatGPT, Gemini, Claude, and more into one place.
+<a href="https://github.com/bunnysayzz/AppleAI"><img src="https://img.shields.io/github/stars/bunnysayzz/AppleAI?style=flat&logo=github&label=stars&color=444" alt="stars"></a>
+<img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
 
 ## Stack
 
@@ -34,9 +31,10 @@ that slides in from your screen edge and keeps every session alive while hidden.
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white" alt="Shell">
 </p>
 
-## Stats
+## Reach
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bunnysayzz&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnysayzz&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" height="160">
+  <a href="https://macbunny.co"><img src="https://img.shields.io/badge/Website-macbunny.co-4fd6c8?logo=safari&logoColor=white" alt="Website"></a>
+  <a href="mailto:stfuazzo@gmail.com"><img src="https://img.shields.io/badge/Email-stfuazzo-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/github/followers/bunnysayzz?style=flat&logo=github&label=followers&color=444" alt="followers">
 </p>
