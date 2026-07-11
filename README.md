@@ -3,13 +3,12 @@
   <img src="assets/hero.svg" alt="whoami — AZHAR, building SideTerminal" width="880">
 </p>
 
-```text
-$ cat about.txt
-hello, I'm bunnysayzz
-• Into devs, always building and learning
-• introvert + focused on code, not feeds
-• reach me at: stfuazzo@gmail.com · macbunny.co
-```
+## About
+
+hello, I'm **bunnysayzz** — into devs, always building and learning.
+Introvert, focused on code, not feeds.
+
+Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https://macbunny.co)
 
 ## Now building
 
@@ -41,8 +40,3 @@ that slides in from your screen edge and keeps every session alive while hidden.
   <img src="https://github-readme-stats.vercel.app/api?username=bunnysayzz&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="GitHub stats" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnysayzz&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" height="160">
 </p>
-
-```text
-$ exit
-# sessions stay alive anyway — that's the whole point.
-```
