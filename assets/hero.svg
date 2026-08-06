@@ -2,7 +2,7 @@
   <!-- Animated terminal hero for the GitHub profile README.
        Pure CSS/SMIL animation: types `whoami`, prints an ASCII banner with a
        flowing gradient, cycles taglines, sweeps a CRT scanline. No scripts,
-       no external assets — plays anywhere GitHub renders the README. -->
+       no external assets, plays anywhere GitHub renders the README. -->
   <defs>
     <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="-440" y1="0" x2="0" y2="0">
       <stop offset="0"   stop-color="#f59014"/>
@@ -79,7 +79,7 @@
     <circle cx="34" cy="25" r="6" fill="#ff5f57"/>
     <circle cx="54" cy="25" r="6" fill="#febc2e"/>
     <circle cx="74" cy="25" r="6" fill="#28c840"/>
-    <text x="440" y="29" text-anchor="middle" font-size="12" fill="#8a94a6">azhar — zsh</text>
+    <text x="440" y="29" text-anchor="middle" font-size="12" fill="#8a94a6">azhar · zsh</text>
 
     <!-- Prompt: types `whoami` -->
     <text x="48" y="80" font-size="15" fill="#e6edf3">
@@ -93,7 +93,7 @@
     <!-- Cycling taglines -->
     <g font-size="14.5">
       <text x="48" y="300" fill="#4fd6c8" font-weight="700">❯</text>
-      <text class="tag t0" x="68" y="300" fill="#9aa4b2">building SideTerminal — your terminal, one edge away</text>
+      <text class="tag t0" x="68" y="300" fill="#9aa4b2">building SideTerminal, your terminal one edge away</text>
       <text class="tag t1" x="68" y="300" fill="#9aa4b2">Swift · AppKit · TypeScript · open source</text>
       <text class="tag t2" x="68" y="300" fill="#9aa4b2">I like terminals more than most people</text>
     </g>
