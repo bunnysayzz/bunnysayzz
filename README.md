@@ -21,6 +21,14 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https
 <a href="https://github.com/bunnysayzz/AppleAI"><img src="https://img.shields.io/github/stars/bunnysayzz/AppleAI?style=flat&logo=github&label=stars&color=444" alt="stars"></a>
 <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
 
+## GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak">
+</p>
+
+![Azhar's GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=bunnysayzz&theme=github-dark&hide_border=true)
+
 ## Stack
 
 <p>
