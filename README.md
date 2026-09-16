@@ -48,10 +48,8 @@ I comment root cause plus fix plus tests on every issue I take, same day as the 
 ## GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak" width="880">
 </p>
-
-![Azhar's GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=bunnysayzz&theme=github-dark&hide_border=true)
 
 ## Stack
 
