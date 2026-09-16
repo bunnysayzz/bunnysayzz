@@ -4,7 +4,7 @@ Professional open-source contributor. I pick up real bugs, reproduce them, trace
 
 Recent work includes VictoriaMetrics, flipt, LiteLLM, Trivy, Dagster, IPython, dlt, agno, CrewAI, and Continue. Highlights with links are in [Open source](#open-source), full history on the [contribution graph](#github).
 
-Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https://macbunny.co)
+Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
 
 ## Now: Utilix for macOS
 
@@ -80,7 +80,6 @@ Also merged in rustdesk, open-webui docs, Kommunity, and idea. Currently open ac
 ## Reach
 
 <p>
-  <a href="https://macbunny.co"><img src="https://img.shields.io/badge/Website-macbunny.co-4fd6c8?logo=safari&logoColor=white" alt="Website"></a>
   <a href="mailto:stfuazzo@gmail.com"><img src="https://img.shields.io/badge/Email-stfuazzo-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/github/followers/bunnysayzz?style=flat&logo=github&label=followers&color=444" alt="followers">
 </p>
