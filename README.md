@@ -12,6 +12,7 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
 
 <a href="https://github.com/bunnysayzz/utilix"><img src="https://img.shields.io/github/stars/bunnysayzz/utilix?style=flat&logo=github&label=stars&color=444" alt="Utilix stars"></a>
 <a href="https://github.com/bunnysayzz/utilix/releases"><img src="https://img.shields.io/github/v/release/bunnysayzz/utilix?label=latest&color=4fd6c8" alt="latest release"></a>
+<a href="https://bunnysayzz.itch.io/utilix"><img src="https://img.shields.io/badge/itch.io-FF0B34?logo=itchdotio&logoColor=white" alt="itch.io"></a>
 
 <p align="center">
   <a href="https://github.com/bunnysayzz/utilix"><img src="https://raw.githubusercontent.com/bunnysayzz/utilix/main/assets/screenshots/palette.png" alt="Utilix command palette" width="720"></a>
@@ -19,7 +20,7 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
 <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
 <img src="https://img.shields.io/badge/macOS-000?logo=apple&logoColor=white" alt="macOS">
 
-Free to use during the trial phase. Download the latest `.dmg` from [Releases](https://github.com/bunnysayzz/utilix/releases), drag to Applications, done. One Universal build for Apple Silicon and Intel. Running installs update themselves in-app with signature verification.
+Free to use during the trial phase. Download the latest `.dmg` from [Releases](https://github.com/bunnysayzz/utilix/releases) or [itch.io](https://bunnysayzz.itch.io/utilix), drag to Applications, done. One Universal build for Apple Silicon and Intel. Running installs update themselves in-app with signature verification.
 
 What it does:
 
