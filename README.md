@@ -1,8 +1,8 @@
 ## Hi, I'm Azhar (bunnysayzz)
 
-Professional open-source contributor. I pick up real bugs, reproduce them, trace the root cause to exact lines, and ship fixes with regression tests. 21 PRs merged across 13 repos, 36 more open across 23 repos, spanning Go, Python, TypeScript, Rust, Java, and Swift.
+Professional open-source contributor. I pick up real bugs, reproduce them, trace the root cause to exact lines, and ship fixes with regression tests. 20+ PRs merged across 13+ repos, with more open across 20+ repos, spanning Go, Python, TypeScript, Rust, Java, and Swift.
 
-Recent work includes VictoriaMetrics, flipt, LiteLLM, Trivy, Dagster, IPython, dlt, agno, CrewAI, and Continue. Full history is on my [contribution graph](#github) and PR list below.
+Recent work includes VictoriaMetrics, flipt, LiteLLM, Trivy, Dagster, IPython, dlt, agno, CrewAI, and Continue. Highlights with links are in [Open source](#open-source), full history on the [contribution graph](#github).
 
 Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https://macbunny.co)
 
@@ -12,6 +12,10 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com) · [macbunny.co](https
 
 <a href="https://github.com/bunnysayzz/utilix"><img src="https://img.shields.io/github/stars/bunnysayzz/utilix?style=flat&logo=github&label=stars&color=444" alt="Utilix stars"></a>
 <a href="https://github.com/bunnysayzz/utilix/releases"><img src="https://img.shields.io/github/v/release/bunnysayzz/utilix?label=latest&color=4fd6c8" alt="latest release"></a>
+
+<p align="center">
+  <a href="https://github.com/bunnysayzz/utilix"><img src="https://raw.githubusercontent.com/bunnysayzz/utilix/main/assets/screenshots/palette.png" alt="Utilix command palette" width="720"></a>
+</p>
 <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
 <img src="https://img.shields.io/badge/macOS-000?logo=apple&logoColor=white" alt="macOS">
 
@@ -41,9 +45,20 @@ Details, screenshots, docs, and issue templates are in the [Utilix repo](https:/
 
 ## Open source
 
-A few merged highlights: pr-agent (5), kajet-turbo (3), dlt, nocodb, composio, Maccy, MacTools, rustdesk, llm-wiki-agent. Currently open across VictoriaMetrics, flipt, opencode, trivy, dagster, Kavita, agno, gemini-cli, ipython, crewAI, continue, markitdown, litellm, n8n, SketchyBar, hidden, plandex, LobsterAI, Integuru, Ice, and nocodb.
+How I work: reproduce first, trace to exact lines, post root cause plus fix plus tests on the issue, open the PR the same day.
 
-I comment root cause plus fix plus tests on every issue I take, same day as the PR.
+| PR | What |
+|---|---|
+| [kajet-turbo #292](https://github.com/jpalczewski/kajet-turbo/pull/292) | Denied writes audited as reads, threaded real verbs through REST and MCP |
+| [pr-agent #2621](https://github.com/The-PR-Agent/pr-agent/pull/2621) | Deletion-only hunk leaking into the prompt, dropped with regression test |
+| [dlt #4344](https://github.com/dlt-hub/dlt/pull/4344) | PipelineTrace accessors typed non-optional but returning None |
+| [nocodb #14354](https://github.com/nocodb/nocodb/pull/14354) | Deleting a missing API token 500d instead of 404, both token services |
+| [composio #4063](https://github.com/ComposioHQ/composio/pull/4063) | Custom credentials nested at the wrong level, broke OAuth flows |
+| [MacTools #272](https://github.com/ggbond268/MacTools/pull/272) | Manifest paths mutated before validation |
+| [llm-wiki-agent #71](https://github.com/SamurAIGPT/llm-wiki-agent/pull/71) | BOM and whitespace breaking frontmatter parse and index |
+| [Maccy #1453](https://github.com/p0deje/Maccy/pull/1453) | Ignored test rebuilt with real state assertions |
+
+Also merged in rustdesk, open-webui docs, Kommunity, and idea. Currently open across VictoriaMetrics, flipt, opencode, trivy, dagster, Kavita, agno, gemini-cli, ipython, crewAI, continue, markitdown, litellm, n8n, SketchyBar, hidden, plandex, LobsterAI, Integuru, Ice, and nocodb.
 
 ## GitHub
 
@@ -55,11 +70,11 @@ I comment root cause plus fix plus tests on every issue I take, same day as the 
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/AppKit-000000?logo=apple&logoColor=white" alt="AppKit">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white" alt="Shell">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
 </p>
 
 ## Reach
