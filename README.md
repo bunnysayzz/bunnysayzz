@@ -17,9 +17,7 @@ Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
 
 <img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak" width="880">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnysayzz&theme=github-dark&hide_border=true" alt="Contribution activity" width="880">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bunnysayzz&theme=github_dark&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub trophies">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunnysayzz&theme=github_dark" alt="Profile details">
 
 </div>
 
