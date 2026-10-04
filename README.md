@@ -1,10 +1,27 @@
-## Hi, I'm Azhar (bunnysayzz)
+<div align="center">
 
-Professional open-source contributor. I pick up real bugs, reproduce them, trace the root cause to exact lines, and ship fixes with regression tests. 20+ PRs merged across 13+ repos, with more open across 20+ repos, spanning Go, Python, TypeScript, Rust, Java, and Swift.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FD6C8&width=640&lines=Hi%2C+I%27m+Azhar+(bunnysayzz);Professional+open-source+contributor;Reproduce+first.+Trace+to+exact+lines.;Ship+fixes+with+regression+tests.)](https://github.com/bunnysayzz)
 
-Recent work includes VictoriaMetrics, flipt, LiteLLM, Trivy, Dagster, IPython, dlt, agno, CrewAI, and Continue. Highlights with links are in [Open source](#open-source), full history on the [contribution graph](#github).
+![Visitors](https://komarev.com/ghpvc/?username=bunnysayzz&color=4fd6c8&style=flat&label=profile+views)
+
+</div>
+
+I pick up real bugs in open-source repos, reproduce them, trace the root cause to exact lines, and ship fixes with regression tests. Working across Go, Python, TypeScript, Rust, Java, C#, and Swift, with fixes merged across 15+ repos and more open across 20+.
 
 Reach me: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bunnysayzz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnysayzz&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="170">
+
+<img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak" width="880">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnysayzz&theme=github-dark&hide_border=true" alt="Contribution activity" width="880">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bunnysayzz&theme=github_dark&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub trophies">
+
+</div>
 
 ## Now: Utilix for macOS
 
@@ -52,20 +69,17 @@ How I work: reproduce first, trace to exact lines, post root cause plus fix plus
 |---|---|
 | [kajet-turbo #292](https://github.com/jpalczewski/kajet-turbo/pull/292) | Denied writes audited as reads, threaded real verbs through REST and MCP |
 | [pr-agent #2621](https://github.com/The-PR-Agent/pr-agent/pull/2621) | Deletion-only hunk leaking into the prompt, dropped with regression test |
+| [pr-agent #3068](https://github.com/The-PR-Agent/pr-agent/pull/3068) | ignore_bot_pr read from the wrong config section |
+| [flipt #6518](https://github.com/flipt-io/flipt/pull/6518) | Deep link lost after OIDC login, restored instead of landing on home |
+| [rustdesk #14910](https://github.com/rustdesk/rustdesk/pull/14910) | unwrap() in CLI password flow replaced with proper error handling |
 | [dlt #4344](https://github.com/dlt-hub/dlt/pull/4344) | PipelineTrace accessors typed non-optional but returning None |
 | [nocodb #14354](https://github.com/nocodb/nocodb/pull/14354) | Deleting a missing API token 500d instead of 404, both token services |
 | [composio #4063](https://github.com/ComposioHQ/composio/pull/4063) | Custom credentials nested at the wrong level, broke OAuth flows |
 | [MacTools #272](https://github.com/ggbond268/MacTools/pull/272) | Manifest paths mutated before validation |
-| [llm-wiki-agent #71](https://github.com/SamurAIGPT/llm-wiki-agent/pull/71) | BOM and whitespace breaking frontmatter parse and index |
 | [Maccy #1453](https://github.com/p0deje/Maccy/pull/1453) | Ignored test rebuilt with real state assertions |
+| [llm-wiki-agent #71](https://github.com/SamurAIGPT/llm-wiki-agent/pull/71) | BOM and whitespace breaking frontmatter parse and index |
 
-Also merged in rustdesk, open-webui docs, Kommunity, and idea. Currently open across VictoriaMetrics, flipt, opencode, trivy, dagster, Kavita, agno, gemini-cli, ipython, crewAI, continue, markitdown, litellm, n8n, SketchyBar, hidden, plandex, LobsterAI, Integuru, Ice, and nocodb.
-
-## GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bunnysayzz&theme=github-dark&hide_border=true" alt="GitHub streak" width="880">
-</p>
+Also merged in open-webui docs, Kommunity, idea, and laya. Currently open across VictoriaMetrics, Kavita, opencode, trivy, dagster, agno, gemini-cli, ipython, crewAI, continue, markitdown, litellm, n8n, SketchyBar, plandex, LobsterAI, Integuru, Ice, and nocodb.
 
 ## Stack
 
@@ -76,11 +90,13 @@ Also merged in rustdesk, open-webui docs, Kommunity, and idea. Currently open ac
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#">
 </p>
 
 ## Reach
 
 <p>
-  <a href="mailto:stfuazzo@gmail.com"><img src="https://img.shields.io/badge/Email-stfuazzo-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:stfuazzo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/bunnysayzz"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/github/followers/bunnysayzz?style=flat&logo=github&label=followers&color=444" alt="followers">
 </p>
