@@ -73,7 +73,7 @@ How I work: reproduce first, trace to exact lines, post root cause plus fix plus
 | [dlt #4344](https://github.com/dlt-hub/dlt/pull/4344) | PipelineTrace accessors typed non-optional but returning None |
 | [nocodb #14354](https://github.com/nocodb/nocodb/pull/14354) | Deleting a missing API token 500d instead of 404, both token services |
 | [composio #4063](https://github.com/ComposioHQ/composio/pull/4063) | Custom credentials nested at the wrong level, broke OAuth flows |
-| [MacTools #272](https://github.com/ggbond268/MacTools/pull/272) | Manifest paths mutated before validation |
+| [MacTools #272](https://github.com/mactools-app/MacTools/pull/272) | Manifest paths mutated before validation |
 | [Maccy #1453](https://github.com/p0deje/Maccy/pull/1453) | Ignored test rebuilt with real state assertions |
 | [llm-wiki-agent #71](https://github.com/SamurAIGPT/llm-wiki-agent/pull/71) | BOM and whitespace breaking frontmatter parse and index |
 
